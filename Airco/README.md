@@ -1,5 +1,5 @@
-# MAir
-Beschreibung des Moduls.
+# Airco
+Module to control a Mitsubishi Heavy Industry Airco.
 
 ### Inhaltsverzeichnis
 
