@@ -1,6 +1,6 @@
 {
     "id": "{2E73F36E-497E-8109-DA39-34D6C8DFCC79}",
-    "name": "MAir",
+    "name": "Airco",
     "type": 3,
     "vendor": "",
     "aliases": [],
@@ -8,5 +8,5 @@
     "childRequirements": [],
     "implemented": [],
     "prefix": "MAIR",
-    "url": "https://github.com/JRatGitHub/M-Air"
+    "url": "https://github.com/JRatGitHub/Mitsubishi"
 }
