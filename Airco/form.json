@@ -1,5 +1,13 @@
 {
-    "elements": [],
+    "elements": [
+        {
+            "type": "CheckBox",
+            "name": "Multiline",
+            "caption": "Multiline for Text",
+            "value": true,
+            "onChange": "MT_UpdateMultiline($id, $Multiline);"
+        }
+    ],
     "actions": [],
     "status": []
 }
