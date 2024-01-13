@@ -4,8 +4,7 @@
             "type": "CheckBox",
             "name": "Multiline",
             "caption": "Multiline for Text",
-            "value": true,
-            "onChange": ""
+            "value": true
         }
     ],
     "actions": [],
