@@ -7,6 +7,7 @@ declare(strict_types=1);
 		{
 			//Never delete this line!
 			parent::Create();
+			$this->RegisterPropertyString("URL", "");
 		}
 
 		public function Destroy()
