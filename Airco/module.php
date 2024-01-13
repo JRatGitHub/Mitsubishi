@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-	class MAir extends IPSModule
+	class Airco extends IPSModule
 	{
 		public function Create()
 		{
