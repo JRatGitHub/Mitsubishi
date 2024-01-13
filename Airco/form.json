@@ -1,5 +1,6 @@
 {
     "elements": [
+        { "type": "ValidationTextBox", "name": "TokenUri", "caption": "TokenUri", "width": "600px" },
         {
             "type": "CheckBox",
             "name": "Multiline",
