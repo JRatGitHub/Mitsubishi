@@ -5,7 +5,7 @@
             "name": "Multiline",
             "caption": "Multiline for Text",
             "value": true,
-            "onChange": "MT_UpdateMultiline($id, $Multiline);"
+            "onChange": ""
         }
     ],
     "actions": [],
