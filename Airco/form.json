@@ -2,7 +2,7 @@
     "elements": [
         {   
             "type": "Label",
-            "label": "see:\r\nhttps://community.home-assistant.io/t/mitsubishi-wf-rac-smart-m-air/447917 \r\n " 
+            "label": "see:\r\nhttps://community.home-assistant.io/t/mitsubishi-wf-rac-smart-m-air/447917 \r\n https://github.com/jeatheak/Mitsubishi-WF-RAC-Integration" 
         },
         { "type": "ValidationTextBox", "name": "URL", "caption": "URL", "width": "600px" },
         {
