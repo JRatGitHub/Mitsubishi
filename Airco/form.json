@@ -2,7 +2,7 @@
     "elements": [
         {   
             "type": "Label",
-            "label": "PWM control of floorheating see:\r\nhttps://knxshoponline.co.uk/content/Schneider/MTN6730-0001/MTN6730-0001_SW_2015_16_EN.pdf\r\nPage 64 onward " 
+            "label": "see:\r\nhttps://community.home-assistant.io/t/mitsubishi-wf-rac-smart-m-air/447917 \r\n " 
         },
         { "type": "ValidationTextBox", "name": "URL", "caption": "URL", "width": "600px" },
         {
